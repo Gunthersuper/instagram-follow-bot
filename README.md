@@ -14,4 +14,5 @@ Installing:
 Using:
 1. Open `direct_bot.py` using any text editor.
 2. Set the targered profile in the `target_profile` parameter.
-3 Open the console (powershell or cmd) in the folder with the `direct_bot.py` file
+3. Open the console (powershell or cmd) in the folder with the `direct_bot.py` file
+4. Enter in the console: `py direct_bot.py` and wait when all bots will follow the target.
