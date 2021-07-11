@@ -3,7 +3,10 @@ from selenium.webdriver.common.keys import Keys
 import time, random
 from threading import Thread
 
+# Profile you need to follow:
 target_profile = 'gunther.super'
+
+# Time between follows:
 delay = 10
 
 def auth(browser, username, password):
